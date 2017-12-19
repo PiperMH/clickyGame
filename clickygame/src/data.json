@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/pepperoni.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/veggie.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/margarita.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/olive.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/potato.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/tomatoes.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/veggieTwo.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/spring.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/pepTwo.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/calzone.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "/assets/images/basil.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "/assets/images/chicken.jpeg",
+      "clicked": false
+    }
+  ]
+  
